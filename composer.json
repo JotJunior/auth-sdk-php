@@ -21,7 +21,7 @@
     "require": {
         "php": "^7.1",
         "ext-json": "*",
-        "guzzlehttp/guzzle": "^6.5",
+        "guzzlehttp/guzzle": "^7.0.1",
         "phpunit/phpunit": "^9.5",
         "vlucas/phpdotenv": "^5.4"
     },
